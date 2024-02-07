@@ -14,9 +14,9 @@ global.APIKeys = {
 
 // setting 
 global.autoread = false // auto read message
-global.autobio = true 
+global.autobio = false 
 global.userRegister = false 
-global.autoblok212 = false //ubah jadi true biar nmr 212 di blok sama bot
+global.autoblok212 = true //ubah jadi true biar nmr 212 di blok sama bot
 
 //language
 //Available in indonesia , english & spanyol 
@@ -28,10 +28,10 @@ global.language = indonesia  //change indonesia to english if you don't understa
 // Other
 global.botname = "Kιɳα Bσƚ" //namabot kalian
 global.ownername= "Iky𝖔𝖋𝖋𝖎𝖈𝖎𝖆𝖑ཽ" //nama kalian
-global.myweb ="https://instagram.com/gamer.s_official" //bebas asal jan hapus
+global.myweb ="IG: @iky_alwaysgood" //bebas asal jan hapus
 global.youtube = "https://youtube.com/c/Mr18" //bebas asal jan hapus
-global.myweb2 = "https://instagram.com/gamer.s_official" //bebas
-global.email = "nb.boruto.official@gmail.com" //bebas
+global.myweb2 = "https://www.instagram.com/iky_alwaysgood?igsh=MXdwbXR3a2xxNjRocA==" //bebas
+global.email = "!" //bebas
 global.region = "Indonesia" //bebas
 global.timezone = 'Asia/Jakarta' //  timezone wib
 global.premium = ['6285794908894'] //premium user
